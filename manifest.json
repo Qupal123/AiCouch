@@ -1,0 +1,10 @@
+{
+  "name": "BrawlDraft",
+  "short_name": "BrawlDraft",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "description": "Ranked Draft Helper for Brawl Stars",
+  "icons": []
+}
